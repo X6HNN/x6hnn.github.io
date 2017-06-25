@@ -8,7 +8,7 @@ body {
 
 nav {
     width: 100vw;
-    height: 20vh;
+    min-height: 20vh;
     font-size: 2em;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -30,7 +30,7 @@ nav a {
 
 main {
     width: 100vw;
-    height: 60vh;
+    max-height: 60vh;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
