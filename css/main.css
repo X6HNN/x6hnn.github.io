@@ -8,23 +8,9 @@ body {
 
 nav {
     width: 100vw;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     min-height: 10vh;
-=======
-    min-height: 20vh;
->>>>>>> b8c524cc8e1b1442b08451ba897aa42d019d7d88
-=======
-    min-height: 20vh;
->>>>>>> b8c524cc8e1b1442b08451ba897aa42d019d7d88
-=======
-    min-height: 20vh;
->>>>>>> b8c524cc8e1b1442b08451ba897aa42d019d7d88
-=======
-    min-height: 20vh;
->>>>>>> b8c524cc8e1b1442b08451ba897aa42d019d7d88
+    padding-left: 20px;
+    padding-right: 20px;
     font-size: 2em;
     display: -webkit-box;
     display: -ms-flexbox;
