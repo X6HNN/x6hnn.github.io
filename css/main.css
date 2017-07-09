@@ -20,6 +20,7 @@ nav {
     -ms-flex-direction: column;
     flex-direction: column;
     text-align: center;
+    overflow: hidden;
 }
 
 nav a {
@@ -42,6 +43,7 @@ main {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
+    overflow: hidden;
 }
 
 main h1 {
@@ -62,6 +64,7 @@ footer {
     max-height: 20vh;
     text-transform: uppercase;
     text-align: center;
+    overflow: hidden;
 }
 
 .wrapper {
