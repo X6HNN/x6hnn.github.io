@@ -112,7 +112,7 @@ h2 {
 }
 
 .DD {font-weight: bold;}
-
+.LL {color: rgba(57, 56, 57, 0.6);}
 #blok {
     width: 100%;
     display: flex;
