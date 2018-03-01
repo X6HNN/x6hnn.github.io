@@ -110,6 +110,20 @@ h2 {
     margin: 0px;
 }
 
+.poster {
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.poster:last-child {
+    padding-bottom: 0px;
+}
+
+.poster:last-child img {
+    width: 90vw;
+    height: auto;
+}
+
 .DD {font-weight: bold;}
 
 .LL {color: rgba(57, 56, 57, 0.6);}
