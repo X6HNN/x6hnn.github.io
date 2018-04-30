@@ -49,8 +49,8 @@ Marck Script
 	}
     
     @font-face {
-    font-family: Pompadur; /* Гарнитура шрифта */
-    src: url(../assets/fonts/MarckScript-Regular.ttf); /* Путь к файлу со шрифтом */
+    font-family: Marck Script; /* Гарнитура шрифта */
+    src: url(../fonts/MarckScript.ttf); /* Путь к файлу со шрифтом */
    }
    h1 {
     font-family: Marck Script;
